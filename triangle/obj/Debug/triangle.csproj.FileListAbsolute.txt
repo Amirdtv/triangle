@@ -1,0 +1,8 @@
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\obj\Debug\triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\triangle\triangle\obj\Debug\triangle.pdb
